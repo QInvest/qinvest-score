@@ -67,10 +67,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --workers 4
 - **POST /calculate-full-score**: Calcula score e taxa de juros
 - **Body**: Todos os dados necessários
 
-## Documentação da API
-
-Acesse `http://localhost:8000/docs` para ver a documentação interativa Swagger/OpenAPI.
-
 ## Testes
 
 ### Executar todos os testes
