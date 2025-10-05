@@ -1,0 +1,14 @@
+{
+  "idade_empresa": 3.5,
+  "cpf_score": 750,
+  "divida_total": 100000,
+  "faturamento_anual": 500000,
+  "saldo_medio_diario": 15000,
+  "faturamento_medio_mensal": 41667,
+  "estresse_caixa_dias": 2,
+  "valor_maior_cliente": 80000,
+  "faturamento_total_periodo": 300000,
+  "cnpj_score_api": 800,
+  "prazo_meses": 12,
+  "valor_solicitado": 100000
+}

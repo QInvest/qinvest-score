@@ -1,0 +1,177 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Arquivos de ambiente virtual
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Arquivos de log
+*.log
+logs/
+*.log.*
+
+# Arquivos temporários
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Arquivos de configuração locais
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de banco de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de migração locais
+migrations/versions/
+
+# Arquivos de cobertura de teste
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Arquivos de distribuição
+*.tar.gz
+*.zip
+
+# Arquivos específicos do projeto
+# Dados sensíveis ou temporários
+data/temp/
+data/cache/
+temp/
+cache/
+
+# Configurações de desenvolvimento locais
+config/local/
+config/development/
+
+# Arquivos de upload temporários
+uploads/
+static/uploads/
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Arquivos de sistema
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de análise de código
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Arquivos específicos do PyInstaller
+*.manifest
+*.spec
+
+# Arquivos do installer
+*.msi
+*.exe
+
+# Arquivos de documentação gerados
+docs/_build/
+docs/build/
+*.pdf
+*.docx
+
+# Arquivos de dependências locais
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de teste específicos
+test_results/
+htmlcov/
+.tox/
+.nox/
+
+# Arquivos de configuração de deployment
+docker-compose.override.yml
+docker-compose.*.yml
+
+# Arquivos de certificado SSL locais
+*.pem
+*.key
+*.crt
+
+# Arquivos de análise de performance
+*.prof
+*.profraw
+
+# Arquivos específicos do projeto QInvest
+# Dados de teste sensíveis ou grandes
+tests/large_test_data/
+tests/sensitive_data/
+
+# Configurações de desenvolvimento específicas
+.env.dev
+.env.test
+
+# Arquivos de log da aplicação
+app.log
+error.log
+access.log
+
+# Arquivos de cache da aplicação
+.cache/
+*.cache
