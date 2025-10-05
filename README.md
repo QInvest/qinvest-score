@@ -2,12 +2,13 @@
 
 API FastAPI para cálculo de score de risco financeiro baseada em métricas empresariais.
 
-Deploy (Google CLoud Run):
+### Deploy (Google CLoud Run):
 https://qinvest-score-228035976304.us-central1.run.app
 
-Docs
-https://qinvest-score-228035976304.us-central1.run.app/docs
-https://qinvest-score-228035976304.us-central1.run.app/redoc
+#### Docs
+- https://qinvest-score-228035976304.us-central1.run.app/docs
+
+- https://qinvest-score-228035976304.us-central1.run.app/redoc
 
 
 ## Funcionalidades
