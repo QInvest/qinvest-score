@@ -1,0 +1,89 @@
+# Arquivos Git
+.git
+.gitignore
+
+# Arquivos de documentação
+README.md
+docs/
+*.md
+
+# Arquivos de desenvolvimento
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de teste
+tests/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Arquivos de sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+wheels/
+*.tar.gz
+*.zip
+
+# Arquivos de configuração locais
+config/local/
+config/development/
+
+# Arquivos de monitoramento (se houver)
+monitoring/
+
+# Arquivos de banco de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos específicos do projeto que não vão para produção
+notebooks/
+data/dataset.md
+data/temp/
+data/cache/
+
+# Arquivos de CI/CD
+.github/
+.gitlab-ci.yml
+docker-compose.*.yml
+
+# Arquivos de certificado locais
+*.pem
+*.key
+*.crt
